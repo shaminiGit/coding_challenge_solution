@@ -1,6 +1,7 @@
 # coding_challenge_solution
 Insight Data Engineering Coding Challenge
-
+Python version used
+3.7
 #Approach and Thought-Process:
 
 I tried solving it using basic python data structures.  </br>
